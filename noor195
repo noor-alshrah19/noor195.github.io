@@ -13,7 +13,6 @@ SmartCity-AR/     # directory for the AR lab solutions
     assets/       # images, markers, object files
     js/           # external JavaScript codes
     styles/       # stylesheets
-    ...           # anything else
     <html>
 <head><title>SmartCity-AR solution of 'username'</title></head>
 <!-- defines the default zoom for mobile devices -->
